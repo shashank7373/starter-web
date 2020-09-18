@@ -25,3 +25,6 @@ Jesus
 Anything is fine. I basically code under a streetlight in Mysuru.
 A cup of coffee is gold for us.
 
+## Copyright
+
+2020 Shashank S
