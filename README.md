@@ -18,7 +18,6 @@ Non-human
 Putin
 Xi-Jin Pin
 Kim Jon un
-Jesus
 
 ## Donation
 
