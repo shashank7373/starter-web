@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Putin
+    Kim Jon Un
+    Xi Jin PIn
+    Baby Yoda
 
 # THANKS
 
